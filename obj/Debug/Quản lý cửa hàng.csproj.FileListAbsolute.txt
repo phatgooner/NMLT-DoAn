@@ -1,0 +1,10 @@
+C:\Users\ADMIN\source\repos\Quản lý cửa hàng\bin\Debug\Quản lý cửa hàng.exe.config
+C:\Users\ADMIN\source\repos\Quản lý cửa hàng\bin\Debug\Quản lý cửa hàng.exe
+C:\Users\ADMIN\source\repos\Quản lý cửa hàng\bin\Debug\Quản lý cửa hàng.pdb
+C:\Users\ADMIN\source\repos\Quản lý cửa hàng\obj\Debug\Quản lý cửa hàng.csproj.AssemblyReference.cache
+C:\Users\ADMIN\source\repos\Quản lý cửa hàng\obj\Debug\Quản_lý_cửa_hàng.FormMain.resources
+C:\Users\ADMIN\source\repos\Quản lý cửa hàng\obj\Debug\Quản_lý_cửa_hàng.Properties.Resources.resources
+C:\Users\ADMIN\source\repos\Quản lý cửa hàng\obj\Debug\Quản lý cửa hàng.csproj.GenerateResource.cache
+C:\Users\ADMIN\source\repos\Quản lý cửa hàng\obj\Debug\Quản lý cửa hàng.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\source\repos\Quản lý cửa hàng\obj\Debug\Quản lý cửa hàng.exe
+C:\Users\ADMIN\source\repos\Quản lý cửa hàng\obj\Debug\Quản lý cửa hàng.pdb
